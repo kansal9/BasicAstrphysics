@@ -1,5 +1,5 @@
 
-This repository contains notebooks that re-created the work or orks through the exercise in papers (as of mentioned in Notebooks).
+This repository contains notebooks that re-created the work or works through the exercise in papers (as of mentioned in Notebooks).
 
 **Copyright of the material in the notebook belongs to the original authors**
 
